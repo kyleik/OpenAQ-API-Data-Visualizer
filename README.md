@@ -1,5 +1,6 @@
 # OpenAQ API Data Visualizer
-A data visualizer for OpenAQ's API
+
+A web app that helps you see air quality data in an intuitive way using OpenAQ's API
 
 ## Features
 
