@@ -2,6 +2,8 @@
 
 A web app that helps you see air quality data in an intuitive way using OpenAQ's API
 
+https://docs.openaq.org/
+
 ## Features
 
 Users can click on a location on the map, then view further measurements about that location
